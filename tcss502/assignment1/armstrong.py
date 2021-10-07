@@ -1,5 +1,6 @@
 # Kevin Chung
 # TCSS 502 Assignment 1 - Armstrong Number Calculator (1.5 hours)
+# Calculates Armstrong numbers within a use specified integer range and prints out the results.
 
 # Obtain User Input
 def get_user_input():
