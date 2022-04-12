@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kev-odin
+- 👋 Hi, I’m Kevin Chung @kev-odin
 - 👀 I’m interested in software engineering and coding with friends.
 - 🌱 I’m currently learning Github, Python, and DSA.
 
