@@ -6,7 +6,7 @@ Currently, I am in the process of completing a Graduate Certicate in Software De
 ## Quick Facts ##
 💻 LinkedIn: https://www.linkedin.com/in/kchungdev/  
 😁 Pronouns: he/him  
-👨‍💻 Favorite OS: Fedora Linux
+👨‍💻 Favorite OS: Fedora Linux  
 💡 Fun Fact: I enjoy sharing my stories from my health inspector days. Ask me about the craziest things that I have seen 😂  
 
 -----
