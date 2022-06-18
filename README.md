@@ -18,12 +18,15 @@ You found my GitHub which is slightly terrifing. Please be kind to my endless li
 I have been working on school and getting ready for interviews. So far, I have been learning about Docker deployments on Amazon AWS EC2. Most of the code that I am writing now has been in Python3, though I started with Java 8 many years ago.  
 
 **Current Projects**
-* Capstone Project 
 * DnD Session Tracker
+
+**Completed Projects**
+* Park Buddies (Dockerized Flask Web App)
+* Dungeon Adventure (2D GUI Python Game)
 
 **Current Activities**
 * Video Games: Elden Ring, The Witcher 3, and Hades
-* Fitness: Cardio, Yoga
+* Fitness: Cardio
 
 **Typical Cadence**
 1) Hot tea
