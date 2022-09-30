@@ -4,7 +4,7 @@
 Recently, I earned a Graduate Certicate in Software Development and Engineering from the University of Washington - Tacoma. Learning Computer Science has been a quite a journey, talking to computers makes me feel like a wizard! I want to make a positive impact in the world and code makes that just a little bit easier.
 
 ## Quick Facts ##
-:floppy_disk: Portfolio Website: https://www.kev-odin.github.io/  
+:floppy_disk: Portfolio Website: https://kev-odin.github.io/  
 💻 LinkedIn: https://www.linkedin.com/in/kchungdev/  
 😁 Pronouns: he/him  
 👨‍💻 Favorite OS: Fedora Linux  
