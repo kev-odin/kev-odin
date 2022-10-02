@@ -15,9 +15,6 @@ Recently, I earned a Graduate Certicate in Software Development and Engineering 
 
 -----
 
-## Code Graveyard ##
-You found my GitHub which is slightly terrifing. Please be kind to my endless list of side projects, I enjoy looking at them from time to time for a reminder of where I started. I will try to keep my newer code reasonably maintained.
-
 ## What have I been up to? ##
 Getting ready for interviews and applying to jobs. So far, I have been learning about Docker deployments on Amazon AWS EC2 and DigitalOcean App Engine. Most of the code that I am writing now has been in Python3, though I started with Java 8 many years ago.
 
@@ -28,17 +25,11 @@ Getting ready for interviews and applying to jobs. So far, I have been learning 
 * Park Buddies (Dockerized Flask Web App)
 * Dungeon Adventure (2D GUI Python Game)
 * PyPascal (Basic Pascal interpreter written in Python)
+* Personal Website (Hosted on Github Pages)
 
 **Current Activities**
 * Video Games: Elden Ring, The Witcher 3, and Hades
 * Fitness: Cardio
-
-**Typical Cadence**
-1) Hot tea
-2) Workout
-3) Leetcode
-4) Studying
-5) Sleep
 
 <!---
 kev-odin/kev-odin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
