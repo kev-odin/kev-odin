@@ -3,7 +3,7 @@
 # Hello Github #
 👋 Hi, I’m Kevin Chung (@kev-odin), someone who loves to laugh and solve problems. I am a Software Engineer with a formal background in Public Health. 
 
-I earned a Graduate Certificate in Software Development and Engineering from the University of Washington - Tacoma in June 2022. Learning Computer Science has been quite a journey, talking to computers makes me feel like a wizard! I want to make a positive impact in the world and code makes that just a little bit easier. Recently, I completed the Intermediate Software Engineering course offered by [CodePath](https://www.codepath.org/). Currently, I am participating in [Hacktoberfest](https://hacktoberfest.com/)!
+I earned a Graduate Certificate in Software Development and Engineering from the University of Washington - Tacoma in June 2022. Learning Computer Science has been quite a journey, talking to computers makes me feel like a wizard! I want to make a positive impact in the world and code makes that just a little bit easier. I completed the Intermediate Software Engineering course offered by [CodePath](https://www.codepath.org/) in August 2022. Recently, I sucessfully completed [Hacktoberfest](https://hacktoberfest.com/)! Currently, I am preparing for a series of technical interviews for November.
 
 ## Quick Facts ##
 :floppy_disk: Portfolio Website: https://kev-odin.github.io/  
@@ -22,6 +22,7 @@ Getting ready for interviews, applying to jobs, and contributing to open-source 
 
 **Current Projects**
 * DnD Session Tracker
+* [CodePath Data Structures & Algorithms Student Resource](https://guides.codepath.com/compsci)
 
 **Completed Projects**
 * Park Buddies (Dockerized Flask Web App)
@@ -30,7 +31,7 @@ Getting ready for interviews, applying to jobs, and contributing to open-source 
 * Personal Website (Hosted on Github Pages)
 
 **Current Activities**
-* Video Games: Hades, Fire Emblem: Three Houses
+* Video Games: Okami HD(Switch), Rec Room, Stellaris
 * Fitness: Cardio
 
 <!---
