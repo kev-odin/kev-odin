@@ -1,12 +1,16 @@
 [![@kev_odin22's Holopin board](https://holopin.me/kev_odin22)](https://holopin.io/@kev_odin22)
 
 # Hello Github #
-👋 Hi, I’m Kevin Chung (@kev-odin), someone who loves to laugh and solve problems. I am a Software Engineer with a formal background in Public Health. 
+Hello, I am Kevin Chung. I am a Software Engineer with a passion for problem-solving and bringing positive change through technology. My academic background in Public Health combined with my Graduate Certificate in Software Development and Engineering from the University of Washington - Tacoma has equipped me with a unique skill set to tackle complex problems.
 
-I earned a Graduate Certificate in Software Development and Engineering from the University of Washington - Tacoma in June 2022. Learning Computer Science has been quite a journey, talking to computers makes me feel like a wizard! I want to make a positive impact in the world and code makes that just a little bit easier. I completed the Intermediate Software Engineering course offered by [CodePath](https://www.codepath.org/) in August 2022. Recently, I sucessfully completed [Hacktoberfest](https://hacktoberfest.com/)! Currently, I am preparing for a series of technical interviews for November.
+Learning Computer Science has been a fascinating journey for me. The ability to communicate with computers and create innovative solutions feels like magic. I am constantly looking for ways to improve my skills and stay up to date with the latest trends in the industry.
+
+I completed the Intermediate Software Engineering course offered by CodePath in August 2022, and more recently, I successfully participated in Hacktoberfest. These experiences have given me the opportunity to collaborate with other developers and expand my knowledge in various areas of software development.
+
+Currently, I am preparing for a series of technical interviews scheduled for the upcoming months. I am excited about this challenge and eager to showcase my abilities to potential employers.
 
 ## Quick Facts ##
-:floppy_disk: Portfolio Website: https://kev-odin.github.io/  
+:floppy_disk: Portfolio Website: https://www.kchungdev.com/
 💻 LinkedIn: https://www.linkedin.com/in/kchungdev/  
 😁 Pronouns: he/him  
 👨‍💻 Favorite OS: Fedora Linux  
@@ -17,22 +21,17 @@ I earned a Graduate Certificate in Software Development and Engineering from the
 
 -----
 
-## What have I been up to? ##
-Getting ready for interviews, applying to jobs, and contributing to open-source projects. I have been learning about Docker deployments on Amazon AWS EC2 and DigitalOcean App Platform. Most of the code that I am writing now has been in Python3.
-
 **Current Projects**
 * DnD Session Tracker
 * [CodePath Data Structures & Algorithms Student Resource](https://guides.codepath.com/compsci)
+* Astro Dodge (Web application utilizing Bulma CSS and Traefik)
+* RESTful API (My personal infrastructure testing)
 
 **Completed Projects**
 * Park Buddies (Dockerized Flask Web App)
 * Dungeon Adventure (2D GUI Python Game)
 * PyPascal (Basic Pascal interpreter written in Python)
 * Personal Website (Hosted on Github Pages)
-
-**Current Activities**
-* Video Games: Okami HD(Switch), Rec Room, Stellaris
-* Fitness: Cardio
 
 <!---
 kev-odin/kev-odin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
