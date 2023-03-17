@@ -10,7 +10,7 @@ I completed the Intermediate Software Engineering course offered by CodePath in 
 Currently, I am preparing for a series of technical interviews scheduled for the upcoming months. I am excited about this challenge and eager to showcase my abilities to potential employers.
 
 ## Quick Facts ##
-:floppy_disk: Portfolio Website: https://www.kchungdev.com/
+:floppy_disk: Portfolio Website: https://www.kchungdev.com/  
 💻 LinkedIn: https://www.linkedin.com/in/kchungdev/  
 😁 Pronouns: he/him  
 👨‍💻 Favorite OS: Fedora Linux  
