@@ -9,10 +9,10 @@
 💡 Fun Fact: I enjoy sharing my stories from my health inspector days. Ask me about the craziest things that I have seen 😂  
 
 ## Tech Badges ##
-[Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
-[Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-[Bulma](https://img.shields.io/badge/Bulma-black?style=for-the-badge&logo=bulma&logoColor=white)
-[![Code](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)]
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-black?style=for-the-badge&logo=bulma&logoColor=white)
+![Code](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -----
 
 **Projects**
