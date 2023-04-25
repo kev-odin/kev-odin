@@ -4,8 +4,11 @@
   <img src="https://profile-counter.glitch.me/kev-odin/count.svg" />
 </p>
 
-# Hello, I'm Kevin #
-Welcome to my GitHub page!
+## Hello, I'm Kevin ##
+Welcome to my GitHub page! 
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchungdev/)
+[![My - Website](https://img.shields.io/badge/My-Website-orange?style=for-the-badge&logo=website&logoColor=white)](https://www.kchungdev.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchungpro@gmail.com)
 
 ## Quick Facts ##
 😁 Pronouns: he/him  
@@ -13,8 +16,10 @@ Welcome to my GitHub page!
 📖 Education: Graduate Certificate in Software Devlopment & Engineering  
 💡 Fun Fact: I enjoy sharing my stories from my health inspector days. Ask me about the craziest things that I have seen 😂  
 
+<p align="center"> 
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=kev-odin&count_private=true&show_icons=true&hide=issues)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kev-odin&layout=compact)
+</p>
 
 ## Tech Badges ##
 Below I list the languages and tools that I have used in my repositories.
