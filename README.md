@@ -1,25 +1,32 @@
 [![@kev_odin22's Holopin board](https://holopin.me/kev_odin22)](https://holopin.io/@kev_odin22)
+
+## Hello, I'm Kevin Chung ##
+Welcome to my GitHub page! I am a Python developer with a passion for building scalable web applications. Currently working on projects using Flask, RESTful APIs, and Docker. I enjoy building tools to help developers be more productive and bringing new engineers into the wonderful world of technology.  
+
+If I am not working on projects, I spend my time preparing for competitive coding competions, finding new recipes to try, or walking my two dogs. If you're interested in the story of me getting to this point, check out my [about page][about].
+
+[about]: https://www.kchungdev.com/about
+
 <p align="center"> 
-  Visitors<br>
-  <img src="https://profile-counter.glitch.me/kev-odin/count.svg" />
+<a href="https://www.linkedin.com/in/kchungdev/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kchungdev.com/" alt="Portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=website&logoColor=white" /></a>
+<a href="mailto:kev.chu.pro@gmail.com" alt="Portfolio">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kev-odin&count_private=true&show_icons=true&hide=issues" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-odin&layout=compact" />         
 </p>
 
-## Hello, I'm Kevin ##
-Welcome to my GitHub page! 
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchungdev/)
-[![My - Website](https://img.shields.io/badge/My-Website-orange?style=for-the-badge&logo=website&logoColor=white)](https://www.kchungdev.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchungpro@gmail.com)
 
 ## Quick Facts ##
-😁 Pronouns: he/him  
-👨‍💻 Favorite OS: Fedora Linux  
-📖 Education: Graduate Certificate in Software Devlopment & Engineering  
-💡 Fun Fact: I enjoy sharing my stories from my health inspector days. Ask me about the craziest things that I have seen 😂  
-
-<p align="center"> 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=kev-odin&count_private=true&show_icons=true&hide=issues)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kev-odin&layout=compact)
-</p>
+- 😁 Pronouns: he/him  
+- 👨‍💻 Favorite OS: Fedora Linux  
+- 📖 Education: Graduate Certificate in Software Devlopment & Engineering  
+- 🌱 I’m currently learning Vue.js, TypeScript, and spec-first API design  
+- 💡 Fun Fact: I enjoy sharing my stories from my health inspector days. Ask me about the craziest things that I have seen 😂  
 
 ## Tech Badges ##
 Below I list the languages and tools that I have used in my repositories.
@@ -57,3 +64,10 @@ Below I list the languages and tools that I have used in my repositories.
 ![traefik](https://img.shields.io/badge/traefik-grey?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![github actions](https://img.shields.io/badge/github_actions-grey?style=for-the-badge&logo=githubactions&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p align="center"> 
+<br>
+<img src="https://profile-counter.glitch.me/kev-odin/count.svg" />
+<br>
+<strong> Visitor Count </strong>
+</p>
