@@ -19,7 +19,7 @@ If I am not working on projects, I spend my time preparing for competitive codin
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=kev-odin&count_private=true&show_icons=true&hide=issues" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-odin&layout=compact" />         
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-odin&layout=compact&langs_count=6" />         
 </p>
 
 
