@@ -26,7 +26,7 @@ If I am not working on projects, I spend my time preparing for competitive codin
 ## Quick Facts ##
 - 😁 Pronouns: he/him  
 - 👨‍💻 Favorite OS: Fedora Linux  
-- 📖 Education: Graduate Certificate in Software Devlopment & Engineering  
+- 📖 Education: Graduate Certificate in Software Development & Engineering  
 - 🌱 I’m currently learning Vue.js, TypeScript, and spec-first API design  
 - 💡 Fun Fact: I enjoy sharing my stories from my health inspector days. Ask me about the craziest things that I have seen 😂  
 
