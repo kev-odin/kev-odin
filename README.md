@@ -17,7 +17,7 @@ If I am not working on projects, I spend my time preparing for competitive codin
 <br><br>
 <img src= "https://streak-stats.demolab.com?user=kev-odin&theme=github-light&hide_border=true&date_format=%5BY%20%5DM%20j"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=kev-odin&count_private=true&show_icons=true&hide=issues" />
+<img src="https://github-readme-stats.vercel.app/api?username=kev-odin&show_icons=true&hide=issues" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-odin&layout=compact" /> 
 </p>
